@@ -1,0 +1,27 @@
+{
+  "clientes": [
+
+    {
+      "firstName": "marcos ",
+      "lastName": "patricio sanfelice",
+      "email": "marcos.sanfelice@gmail.com",
+      "password": "123",
+      "id": "JE99exY"
+    },
+    {
+      "firstName": "rafael",
+      "lastName": "patricio",
+      "email": "rafael@google.com",
+      "password": "456",
+      "id": "8M6N7T1"
+    },
+    {
+      "firstName": "marcos ",
+      "lastName": "patricio sanfelice",
+      "email": "marcos.sanfelice@gmail.com",
+      "password": "123",
+      "id": "5rTMC6D"
+    }
+
+  ]
+}
